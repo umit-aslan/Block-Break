@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 1072522646665577641}
   m_Layer: 0
   m_Name: Yellow Block
-  m_TagString: Untagged
+  m_TagString: Block
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -123,3 +123,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Health: 6
+  breakingBlocks: 0
