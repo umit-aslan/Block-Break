@@ -25,6 +25,7 @@ public class BlockController : MonoBehaviour
      if (true)
      {
          Health--;
+
          if (Health <= 0)   
          {
              blockNumber--;
