@@ -7,10 +7,7 @@ public class Game_Manager : MonoBehaviour
 {
  public Transform ball;
  public Transform cam;
-    void Start()
-    {
-        
-    }
+
     void Update()
     {
         checkBallPos();
